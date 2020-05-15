@@ -16,7 +16,7 @@ xml
 ## How to run:
 * Download/clone the repository to your local disk. 
 * To run the script, open ```Command Prompt``` or ```terminal``` at the ```git-clone``` or downloaded location.
-* Input the following commands:
+* Input the following command:
 ```sh
 $ python3 annotate.py
 ```
